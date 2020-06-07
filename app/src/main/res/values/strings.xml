@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Covid-19 Updates</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="active">Active Cases</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="statistics">Statistics</string>
+
+    <string name="str_cases_per_million">%s \n Cases Per Million</string>
+    <string name="str_deaths_per_milion">%s \n Deaths Per Million</string>
+    <string name="str_active_per_milion">%s \n Active Cases Per Million</string>
+    <string name="str_tests_per_milion">%s \n Tests Per Million</string>
+    <string name="str_recovered_per_milion">%s \n Recovered Per Million</string>
+    <string name="str_critical_per_million">%s \n Critical Per Million</string>
+</resources>

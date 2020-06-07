@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_main_bg">#EEEAEA</color>
+    <color name="color_total_cases">#ffaf49</color>
+    <color name="color_death_cases">#C62828</color>
+    <color name="color_recovered_cases">#9AC645</color>
+    <color name="color_active_cases">#FFD740</color>
+    <color name="color_text">#181818</color>
+    <color name="text_color">#323232</color>
+    <color name="color_affected_countries">#607D8B</color>
+</resources>
